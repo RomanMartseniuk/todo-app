@@ -1,9 +1,24 @@
-# React TypeScript Starter Pack
+# Todo App
 
-To use this template click `Use this template`
+## Description
+This is a Todo App project. In this app, main essence is to create a React App and use API in it.
 
-### Available Scripts
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+- API
 
-`Deploy` - available to deploy your application to gh-pages
+## Preview
+- [View the live portfolio](https://romanmartseniuk.github.io/todo-app/)
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+## Reference
+- [Link to the reference](https://mate-academy.github.io/react_todo-app-with-api/)
+
+## Local Launch Instructions
+1. Clone the repository: `git clone https://github.com/RomanMartseniuk/mibike_landing-page.git`
+2. Install dependencies: `npm install`
+3. Start the project: `npm start`
+4. Local version of project is opened!
